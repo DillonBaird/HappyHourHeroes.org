@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comms on Happy Hour Heroes</title>
+    <link>/comms/</link>
+    <description>Recent content in Comms on Happy Hour Heroes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/comms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital PTT Radio Service</title>
+      <link>/comms/digital-ptt-service/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/comms/digital-ptt-service/</guid>
+      <description>&lt;p&gt;State-of-the-art onboard network radio network service. Our RoIP design solutions provide a robust and highly configurable system. Together with secure protocols SRTP, SDES, IPsec, and our encryption libraries, SeaLink&amp;rsquo;s RoIP software solution can ensure clear, private, and secure radio communications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PTP/PTMP Data Links</title>
+      <link>/comms/datalink/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/comms/datalink/</guid>
+      <description>&lt;p&gt;Whether you need to link multiple locations in a remote area or establish a dedicated connection for critical operations, our PTP/PTMP services can deliver the performance you need.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VHF/UHF Repeaters</title>
+      <link>/comms/repeaters/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/comms/repeaters/</guid>
+      <description>&lt;p&gt;Our VHF/UHF Repeaters are designed to be portable, rugged, and easy to use, making them ideal for a wide range of applications, including emergency response, disaster recovery, and special events.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Network / Radio Connectivity</title>
+      <link>/comms/connectivity/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/comms/connectivity/</guid>
+      <description>&lt;p&gt;Dynamically switch between or bond together Wi-Fi, Cellular, Starlink, PLTE, or SATCOM connectivity based on prioritization, availability, and throughput requirements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Radio Interoperability</title>
+      <link>/comms/interoperability/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>/comms/interoperability/</guid>
+      <description>&lt;p&gt;Interoperability gateway can connect any combination of onboard and customer radios. Conventional, P25, and MotoRBO radios. LMR support across all bands. Mobile dispatch consoles can be configured to operate on any system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Integrated Spectral Analysis</title>
+      <link>/comms/spectral-analvsis/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/comms/spectral-analvsis/</guid>
+      <description>&lt;p&gt;Real-time spectral analvsis and interference detection service capabilities across all radio frequency bands up to 6GHz.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
